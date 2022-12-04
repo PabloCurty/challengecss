@@ -1,0 +1,17 @@
+h3 {
+    text-align: left;
+    width: 320px;
+    color: rgb(63, 56, 56);
+    background-color: rgb(205, 203, 207);
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    margin: 20px;
+    margin-left: 18px;
+    padding: 0px;
+    background: #2d4255;
+    color: white;
+    width: 300px;
+}
